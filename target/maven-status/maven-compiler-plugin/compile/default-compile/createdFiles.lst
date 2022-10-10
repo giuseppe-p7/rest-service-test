@@ -1,0 +1,8 @@
+com\example\restservice\RestServiceApplication.class
+com\example\restservice\ServletInitializer.class
+com\example\restservice\response\FabrickBonificoResponse.class
+com\example\restservice\response\FabrickResponse.class
+com\example\restservice\FabrickService.class
+com\example\restservice\controller\FabrickController.class
+com\example\restservice\model\FabrickModel.class
+com\example\restservice\response\FabrickSaldoResponse.class
